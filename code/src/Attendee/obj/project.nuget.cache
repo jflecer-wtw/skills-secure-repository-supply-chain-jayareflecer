@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yEWES28UqQ0=",
+  "dgSpecHash": "5CppoHO79ZE=",
   "success": true,
   "projectFilePath": "/home/runner/work/skills-secure-repository-supply-chain-jayareflecer/skills-secure-repository-supply-chain-jayareflecer/jflecer-wtw/skills-secure-repository-supply-chain-jayareflecer/code/src/Attendee/Attendee.csproj",
   "expectedPackageFiles": [
-    "/home/runner/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "/home/runner/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+    "/tmp/codeql-scratch-1b0a5758f8a6b88e/dbs/csharp/working/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/tmp/codeql-scratch-1b0a5758f8a6b88e/dbs/csharp/working/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

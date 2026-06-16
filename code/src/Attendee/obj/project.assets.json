@@ -8,7 +8,7 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/home/runner/.nuget/packages/": {}
+    "/tmp/codeql-scratch-1b0a5758f8a6b88e/dbs/csharp/working/packages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,7 +16,7 @@
       "projectUniqueName": "/home/runner/work/skills-secure-repository-supply-chain-jayareflecer/skills-secure-repository-supply-chain-jayareflecer/jflecer-wtw/skills-secure-repository-supply-chain-jayareflecer/code/src/Attendee/Attendee.csproj",
       "projectName": "Attendee",
       "projectPath": "/home/runner/work/skills-secure-repository-supply-chain-jayareflecer/skills-secure-repository-supply-chain-jayareflecer/jflecer-wtw/skills-secure-repository-supply-chain-jayareflecer/code/src/Attendee/Attendee.csproj",
-      "packagesPath": "/home/runner/.nuget/packages/",
+      "packagesPath": "/tmp/codeql-scratch-1b0a5758f8a6b88e/dbs/csharp/working/packages",
       "outputPath": "/home/runner/work/skills-secure-repository-supply-chain-jayareflecer/skills-secure-repository-supply-chain-jayareflecer/jflecer-wtw/skills-secure-repository-supply-chain-jayareflecer/code/src/Attendee/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
